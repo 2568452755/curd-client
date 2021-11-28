@@ -2,6 +2,7 @@
   <div id="app">
   git的第一次提交
   git的第二次提交
+  git的第三次提交
    <user />
   </div>
 </template>
