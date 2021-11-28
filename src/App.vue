@@ -12,6 +12,9 @@
     git的第10次提交:需要使用rebase合并本地分支提交1
     git的第11次提交:需要使用rebase合并本地分支提交2
     git的第12次提交:需要使用rebase合并本地分支提交3
+    git的第13次提交:需要使用rebase合并本地分支提交1
+    git的第14次提交:需要使用rebase合并本地分支提交2
+    git的第15次提交:需要使用rebase合并本地分支提交3
     <user />
   </div>
 </template>
