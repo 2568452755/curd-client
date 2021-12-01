@@ -15,6 +15,7 @@
     git的第13次提交:需要使用rebase合并本地分支提交1
     git的第14次提交:需要使用rebase合并本地分支提交2
     git的第15次提交:需要使用rebase合并本地分支提交3
+    远程修改
     <user />
   </div>
 </template>
